@@ -1,6 +1,6 @@
 # Borderless Gaming
 Make your windowed games Borderless Fullscreen
-<div style="display:flex">
+<div>  
   <img src="https://github.com/DDarknessOne/blg/assets/91283578/f6c36f77-ff57-4568-b91b-68033f7c29a2" width="48%"/>
   <img src="https://github.com/DDarknessOne/blg/assets/91283578/053a832a-3872-413f-8ecf-31e2de4ccfb1" width="48%"/>
   <img src="https://github.com/DDarknessOne/blg/assets/91283578/c173bbab-9578-434d-9dcf-d2a1cf9ec82b" width="48%"/>
