@@ -1,10 +1,10 @@
 # Borderless Gaming
 Make your windowed games Borderless Fullscreen
 <div>  
-  <img src="https://i.ibb.co/YdDQX9F/home.png" width="48%"/>
-  <img src="https://i.ibb.co/jbKYnms/fav.png" width="48%"/>
-  <img src="https://i.ibb.co/XY53k0p/preset.png" width="48%"/>
-  <img src="https://i.ibb.co/NnZKf7q/settings.png" width="48%"/>  
+  <img src="https://i.ibb.co/YdDQX9F/home.png" width="49.75%"/>
+  <img src="https://i.ibb.co/jbKYnms/fav.png" width="49.75%"/>
+  <img src="https://i.ibb.co/XY53k0p/preset.png" width="49.75%"/>
+  <img src="https://i.ibb.co/NnZKf7q/settings.png" width="49.75%"/>  
 </div>
 
 ## Features
