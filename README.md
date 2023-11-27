@@ -3,7 +3,7 @@ Make your windowed games Borderless Fullscreen
 <div>  
   <img src="https://i.ibb.co/YdDQX9F/home.png" width="49%"/>
   <img src="https://i.ibb.co/jbKYnms/fav.png" width="49%"/>
-  <img src="https://i.ibb.co/vw7fV1L/preset2.png" width="49%"/>
+  <img src="https://i.ibb.co/ct3YkJz/preset3.png" width="49%"/>
   <img src="https://i.ibb.co/NnZKf7q/settings.png" width="49%"/>  
 </div>
 
